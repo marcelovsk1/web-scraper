@@ -72,3 +72,25 @@ def main():
             }
         }
     ]
+
+    all_events = []
+
+    for source in sources:
+        options = Options()
+        options.headless = True
+        driver = webdriver.Chrome(options=options)
+        events = scrape_events(driver, source['url'], source['selectors'])
+        driver.quit()
+
+        source_data = {
+            'source_name': source['name'],
+            'events': events
+        }
+
+        all_events.append(source_data)
+
+    json_data = json.dumps(all_events, indent=2)
+    print(json_data)
+
+if __name__ == "__main__":
+    main()
