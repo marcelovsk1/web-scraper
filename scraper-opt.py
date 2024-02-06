@@ -10,6 +10,7 @@ def scroll_to_bottom(driver, max_clicks=3):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(3)
 
+# Events to scrape
 def scrape_events(driver, url, selectors):
     driver.get(url)
     driver.implicitly_wait(30)
