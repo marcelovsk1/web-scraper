@@ -26,6 +26,6 @@ def filter_events(events_data, event_name, date, location, image_url):
     return filtered_events
 
 filtered_events = filter_events("events_data.json", "Event", "Date", "Location", "Image URL")
-
+# Convert to JSON
 filtered_events_json = json.dumps(filtered_events, indent=2)
 print(filtered_events_json)
