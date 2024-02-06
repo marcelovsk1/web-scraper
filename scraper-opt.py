@@ -89,8 +89,12 @@ def main():
 
         all_events.append(source_data)
 
-    json_data = json.dumps(all_events, indent=2)
-    print(json_data)
+    file_name = "events_data.json"  # Name of the JSON file to be created
+
+    with open(file_name, "w") as json_file:
+        json.dump(all_events, json_file, indent=2)
+
+    print(f"JSON data has been written to {file_name}")
 
 if __name__ == "__main__":
     main()
