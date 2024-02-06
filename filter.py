@@ -25,9 +25,7 @@ def filter_events(events_data, event_name, date, location, image_url):
 
     return filtered_events
 
-# Example usage:
 filtered_events = filter_events("events_data.json", "Event", "Date", "Location", "Image URL")
-for event in filtered_events:
-    print(event)
 
-# yayy its working!
+filtered_events_json = json.dumps(filtered_events, indent=2)
+print(filtered_events_json)
