@@ -29,3 +29,5 @@ filtered_events = filter_events("events_data.json", "Event", "Date", "Location",
 # Convert to JSON
 filtered_events_json = json.dumps(filtered_events, indent=2)
 print(filtered_events_json)
+
+# Plese run and test this code in your device before apply into the app
