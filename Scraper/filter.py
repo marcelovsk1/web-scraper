@@ -34,12 +34,11 @@ def filter_events(events_data, event_name, date, location, image_url):
                     'image_url': event[image_url]
                 })
 
-    # Retorna a lista de eventos filtrados
     return filtered_events
 
 # Chama a função filter_events e passa o nome do arquivo de dados de eventos e os nomes das chaves relevantes
 filtered_events = filter_events("events_data.json", "Event", "Date", "Location", "Image URL")
 
-# Converte os eventos filtrados em formato JSON e imprime
+# Convert to JSON
 filtered_events_json = json.dumps(filtered_events, indent=2)
 print(filtered_events_json)
