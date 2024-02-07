@@ -33,5 +33,4 @@ def add_tags_to_events(events_data_file):
     with open(events_data_file, 'w') as file:
         json.dump(data, file, indent=2)
 
-# Exemplo de uso:
 add_tags_to_events("events_data.json")
