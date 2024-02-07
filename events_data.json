@@ -1,455 +1,254 @@
 [
   {
     "source_name": "Facebook",
-    "events": [
-      {
-        "Event": "Make friends in Montr\u00e9al - Every week",
-        "Date": "TUE, FEB 6 AT 7:00 PM EST",
-        "Location": "Make friends in Montr\u00e9al - Every week",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/403599164_731504205667975_304727111953160691_n.jpg?stp=c0.29.320.153a_dst-jpg_p240x240&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=McTcZQxq_VMAX9iBFkZ&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfCHc2XeZfr0ynrGYxsvUeAAg2XR4kfEE3R661DYjmtYEg&oe=65C7E0A0"
-      },
-      {
-        "Event": "Lost Frequencies - Montreal, CA",
-        "Date": "SAT, FEB 24 AT 10:00 PM EST",
-        "Location": "Lost Frequencies - Montreal, CA",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/409527184_334561749321005_1766004216684449845_n.jpg?stp=c0.42.1200.573a_dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=fNkIOI95mx0AX8FVumC&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfAMI_gmOuOAydvSmCjSVNSEI1-5psbMcNUyCC-DUsKWNA&oe=65C73B2C"
-      },
-      {
-        "Event": "Thievery Corporation - Montreal, CA",
-        "Date": "SAT, MAR 2 AT 8:00 PM EST",
-        "Location": "Thievery Corporation - Montreal, CA",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/415040092_349724207804759_8466371807254301977_n.jpg?stp=c0.147.2048.977a_dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=L3qirgvLBDoAX9EMF8R&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfDao51gCeyFa3LyFZOYX2jevkOdhGAnnm3Mb0_S5-w_ew&oe=65C7ECE9"
-      },
-      {
-        "Event": "CALQ Grant Writing Workshop-In Person SOLD OUT",
-        "Date": "WED, FEB 14 AT 12:00 PM EST",
-        "Location": "CALQ Grant Writing Workshop-In Person SOLD OUT",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/419485577_365717329434334_9143574193216568151_n.jpg?stp=c0.47.1640.782a_dst-jpg_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=MjI9ortImgMAX9p2kQZ&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfBurtQwVO0ktzsCpAyfrmg3LM_wmDmvIC0JPr3P4zXYkQ&oe=65C875DB"
-      },
-      {
-        "Event": "Nuit blanche at Latin Groove and Palladium",
-        "Date": "SAT, MAR 2 AT 7:00 PM EST",
-        "Location": "Nuit blanche at Latin Groove and Palladium",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/422883102_828523705954166_5995203699094755192_n.jpg?stp=c0.5.315.150a_dst-jpg_p235x165&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=BFDkq0I6N5QAX_NrhMz&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfB_nQ0vZ7sn2cdacvpQb9JiIQ_Nv0L6BAW3ywyucVUZuA&oe=65C78E97"
-      },
-      {
-        "Event": "Burna Boy - Montreal, QC",
-        "Date": "WED, FEB 28 AT 7:30 PM EST",
-        "Location": "Burna Boy - Montreal, QC",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/386274971_675373018026023_7611230093609152874_n.jpg?stp=c0.58.2048.977a_dst-jpg_s320x320&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=j7KPA_PNG1oAX_oHHkN&_nc_oc=AQmrjmHx_kQDNN3UbJ-E2NPXChw8EzIUz8ouSqH7zMXU82hqq5Ok-PZ-ap8psrIhIJ5v_Ba8gO-1YxGhOlw4L8no&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfDVjsRnBZmFlpS1TpaJtdrIPr85RGNLtIin_3YzbIYFvQ&oe=65C6EA9C"
-      },
-      {
-        "Event": "MYSTICAL BAZAAR MONTREAL",
-        "Date": "HAPPENING NOW",
-        "Location": "MYSTICAL BAZAAR MONTREAL",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/420115050_3360482110858049_8946847574667125112_n.jpg?stp=c0.27.960.458a_dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=BwsATBGXwW8AX_BnfEl&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfDVhkoHnObVcxVKF5yF9SWzNuquM9CQJ8OCtlkFXuxXnA&oe=65C87C9F"
-      },
-      {
-        "Event": "Book Launch for Marcus Aurelius: The Stoic Emperor",
-        "Date": "TUE, FEB 6 AT 7:00 PM EST",
-        "Location": "Book Launch for Marcus Aurelius: The Stoic Emperor",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/424626654_122135075204086614_5577175648738355380_n.jpg?stp=c0.23.815.389a_dst-jpg_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=-cJOYWFeZuQAX84yWRz&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfAx5PjHf6zNPJxgiVEd2sDNhLYdc7b4zRog-1odeg0o8A&oe=65C8A53A"
-      },
-      {
-        "Event": "Diggers | A Black Theatre Workshop and Prairie Theatre Exchange Co-Production",
-        "Date": "TUE, FEB 6 AT 7:30 PM EST",
-        "Location": "Diggers | A Black Theatre Workshop and Prairie Theatre Exchange Co-Production",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/420198347_869084718555284_9168933376511232543_n.jpg?stp=c0.54.1920.916a_dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=7jBIfR_p68AAX8uevsn&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfBpV49YpDX5c8kOHZgFh_X18tfNgGStsZMSnfZ43CC-_g&oe=65C76EDC"
-      },
-      {
-        "Event": "Mundo Lingo Montreal - Plateau Mont Royal",
-        "Date": "WED, FEB 7 AT 7:00 PM EST",
-        "Location": "Mundo Lingo Montreal - Plateau Mont Royal",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/416107787_10161661982817704_4853022588442531556_n.jpg?stp=c0.5.315.150a_dst-jpg_p235x165&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=wysu5OHocZIAX_Tu888&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfAxqRO6vbkEgqjNpczuEZnz55Du4juvcoV2g6prvJTdaw&oe=65C7EB28"
-      },
-      {
-        "Event": "Deep&Afro",
-        "Date": "FRI, MAY 3 AT 10:00 PM EDT",
-        "Location": "Deep&Afro",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/298468570_712982146801572_8222658830460538610_n.jpg?stp=c166.0.1308.624a_dst-jpg_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=lcwaZFUOdXsAX-gdrzq&_nc_oc=AQlx-_YZzuTNUaGC7vWoHzWye6P4BCMVdY0MJsSMxNfawh0qx_IyxtCcQkkG0cI0EKrl4am_0UTwIHt_dUyNNMaW&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfCyqG6gGGOq6p_vSJNLjF8CtDU_BoigWN7THc6NDTTBeg&oe=65C706DA"
-      },
-      {
-        "Event": "D+Q COOKS! COOKBOOK CLUB: MORE IS MORE",
-        "Date": "SUN, FEB 18 AT 7:00 PM EST",
-        "Location": "D+Q COOKS! COOKBOOK CLUB: MORE IS MORE",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/396522906_716652730489040_306152727764920544_n.jpg?stp=c0.57.1200.573a_dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=CXAZIFUEXDkAX-2b26E&_nc_oc=AQlWd6nlgd0CgMd5XG4W50P_fKrcqFBL72eluXtc1L0vYU8fVv-RceSE7dB5NNikxTBx9y-p-YEKjNhvZua8AqGd&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfDlbbVt45nLGR7QKX4MFQ70ihBjU2Ob36_z3Nh6T9hYCw&oe=65C7BB92"
-      },
-      {
-        "Event": "live@CIRMMT: A Search for Perceptual Spaces: From the Womb to the Latent Spaces",
-        "Date": "FRI, FEB 16 AT 7:30 PM EST",
-        "Location": "live@CIRMMT: A Search for Perceptual Spaces: From the Womb to the Latent Spaces",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/419580837_887657666693485_461362237796757792_n.jpg?stp=c0.54.1920.916a_dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=_JGh8px0i7QAX8LFfqn&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfCrM0_vGG7dzthwczy5MNOvsy5obCXz6u871Dxa7t9F7g&oe=65C8A668"
-      },
-      {
-        "Event": "Psy Crisis IV: JUNGLE",
-        "Date": "SAT, MAY 4 - MAY 5",
-        "Location": "Psy Crisis IV: JUNGLE",
-        "Image URL": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/402104716_666862788925868_6987574921516958122_n.jpg?stp=c0.40.1456.695a_dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=oRoZcZJL-ccAX-u8_lj&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfDxpK2NFfnV-z5iQJCe0EKnIPPujCq21XaBW1MDVdnZ0w&oe=65C6C798"
-      },
-      {
-        "Event": null,
-        "Date": null,
-        "Location": null,
-        "Image URL": null
-      }
-    ]
+    "event_name": "Lost Frequencies - Montreal, CA",
+    "date": "SAT, FEB 24 AT 10:00 PM EST",
+    "location": "Lost Frequencies - Montreal, CA",
+    "image_url": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/409527184_334561749321005_1766004216684449845_n.jpg?stp=c0.42.1200.573a_dst-jpg_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=P5ZQr_N4fLsAX_aMQxp&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfD5ppOzHd8vddZv2mBQDVGoR7JmY_DmE48wphGdsC2xBg&oe=65C9356C"
+  },
+  {
+    "source_name": "Facebook",
+    "event_name": "Thievery Corporation - Montreal, CA",
+    "date": "SAT, MAR 2 AT 8:00 PM EST",
+    "location": "Thievery Corporation - Montreal, CA",
+    "image_url": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/415040092_349724207804759_8466371807254301977_n.jpg?stp=c0.147.2048.977a_dst-jpg_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=TCah8axw15kAX_VLmPF&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfAAXSz0bQA7Qn3XFhtJ-TP7Fcm_0tvTMbD2ES7ssJkdgg&oe=65C7ECE9"
+  },
+  {
+    "source_name": "Facebook",
+    "event_name": "Mundo Lingo Montreal - Plateau Mont Royal",
+    "date": "WED, FEB 7 AT 7:00 PM EST",
+    "location": "Mundo Lingo Montreal - Plateau Mont Royal",
+    "image_url": "https://scontent.fmgf1-1.fna.fbcdn.net/v/t39.30808-6/416107787_10161661982817704_4853022588442531556_n.jpg?stp=c0.5.315.150a_dst-jpg_p235x165&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_ohc=wysu5OHocZIAX_Tu888&_nc_ht=scontent.fmgf1-1.fna&oh=00_AfAxqRO6vbkEgqjNpczuEZnz55Du4juvcoV2g6prvJTdaw&oe=65C7EB28"
+  },
+  {
+    "source_name": "Facebook",
+    "event_name": null,
+    "date": null,
+    "location": null,
+    "image_url": null
   },
   {
     "source_name": "Ticketmaster",
-    "events": [
-      {
-        "Event": "Machine Head",
-        "Date": "Feb 6",
-        "Location": "MTELUS - Montreal, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/204/56bf55b8-1bd2-40c1-81df-f959b4985204_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Elyanna",
-        "Date": "Feb 6",
-        "Location": "Th\u00e9\u00e2tre Beanfield - Montreal, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/4c0/e7451e3c-e588-4333-9f08-554c340764c0_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Charlotte Cardin - 99 Nights",
-        "Date": "Feb 8",
-        "Location": "Place Bell - Laval, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Vader",
-        "Date": "Feb 9",
-        "Location": "Le Studio TD - Montr\u00e9al, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Charlotte Cardin - 99 Nights",
-        "Date": "Feb 9",
-        "Location": "Place Bell - Laval, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "HABANA NIGHTS avec Carlos Placeres",
-        "Date": "Feb 9",
-        "Location": "Le Balcon - Montreal, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/62b/aa0c8acd-eb4d-4733-ac0e-f20d8405f62b_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Charlotte Cardin - 99 Nights",
-        "Date": "Feb 10",
-        "Location": "Place Bell - Laval, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Maggots - Hommage \u00c0 Slipknot",
-        "Date": "Feb 10",
-        "Location": "Th\u00e9\u00e2tre Beanfield - Montreal, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/8dd/1d9af918-6633-43a5-9115-2f4f863ac8dd_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "Piano Man 3",
-        "Date": "Feb 10",
-        "Location": "Salle Richard-Sauvageau - Laprairie, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/c6f/b42f308a-6c38-4b65-a50a-adba24610c6f_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      },
-      {
-        "Event": "New World Men",
-        "Date": "Feb 10",
-        "Location": "Le Club Square Dix30 - Brossard, Canada",
-        "Image URL": "https://s1.ticketm.net/dam/a/2fa/30044f00-318e-4670-b589-8ab80d49e2fa_SOURCE?width=8&height=5&fit=crop&auto=webp"
-      }
-    ]
+    "event_name": "Charlotte Cardin - 99 Nights",
+    "date": "Feb 8",
+    "location": "Place Bell - Laval, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Vader",
+    "date": "Feb 9",
+    "location": "Le Studio TD - Montr\u00e9al, Canada",
+    "image_url": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Charlotte Cardin - 99 Nights",
+    "date": "Feb 9",
+    "location": "Place Bell - Laval, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "HABANA NIGHTS avec Carlos Placeres",
+    "date": "Feb 9",
+    "location": "Le Balcon - Montreal, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/62b/aa0c8acd-eb4d-4733-ac0e-f20d8405f62b_SOURCE?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Charlotte Cardin - 99 Nights",
+    "date": "Feb 10",
+    "location": "Place Bell - Laval, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/c84/1bb039e1-8592-4618-a6a5-9457c9c4cc84_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Maggots - Hommage \u00c0 Slipknot",
+    "date": "Feb 10",
+    "location": "Th\u00e9\u00e2tre Beanfield - Montreal, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/8dd/1d9af918-6633-43a5-9115-2f4f863ac8dd_SOURCE?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Piano Man 3",
+    "date": "Feb 10",
+    "location": "Salle Richard-Sauvageau - Laprairie, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/c6f/b42f308a-6c38-4b65-a50a-adba24610c6f_SOURCE?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "New World Men",
+    "date": "Feb 10",
+    "location": "Le Club Square Dix30 - Brossard, Canada",
+    "image_url": "https://s1.ticketm.net/dam/a/2fa/30044f00-318e-4670-b589-8ab80d49e2fa_SOURCE?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Les meilleurs hits Soul, Motown, Disco avec Freddie James Project",
+    "date": "Feb 10",
+    "location": "Le Balcon - Montreal, Canada",
+    "image_url": "https://s1.ticketm.net/dam/e/8ad/5fce73e3-8075-4606-85c8-9e5ddb7798ad_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
+  },
+  {
+    "source_name": "Ticketmaster",
+    "event_name": "Shahyad Live In Montreal",
+    "date": "Feb 10",
+    "location": "Cin\u00e9ma Imp\u00e9rial - Montreal, Canada",
+    "image_url": "https://s1.ticketm.net/dam/e/e9f/813d90a3-1d07-4661-9d0b-ce56bd813e9f_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp"
   },
   {
     "source_name": "Eventbrite",
-    "events": [
-      {
-        "Event": "Global Tarraxo Festival - Montreal 3rd Edition",
-        "Date": "Friday \u2022 2:00 PM",
-        "Location": "H\u00f4tel Z\u00e9ro1",
-        "Image URL": null
-      },
-      {
-        "Event": "Grandioses \u00e9clipses totales de Soleil \u00cates-vous pr\u00eat pour le 8 avril 2024 ?",
-        "Date": "Friday \u2022 7:30 PM",
-        "Location": "Plan\u00e9tarium de Montr\u00e9al",
-        "Image URL": null
-      },
-      {
-        "Event": "Concert NES/SNES",
-        "Date": "Saturday \u2022 7:30 PM",
-        "Location": "Salle Marguerite-Bourgeoys",
-        "Image URL": null
-      },
-      {
-        "Event": "Lancement montr\u00e9alais des Journ\u00e9es de la pers\u00e9v\u00e9rance scolaire 2024",
-        "Date": "Monday \u2022 9:00 AM",
-        "Location": "2000 Rue Parthenais",
-        "Image URL": null
-      },
-      {
-        "Event": "Protecting Human Rights in AI: Integration in Risk-Based Governance",
-        "Date": "Wed, Feb 14 \u2022  5:00 PM",
-        "Location": "Mila - Institut qu\u00e9b\u00e9cois d'intelligence artificielle",
-        "Image URL": null
-      },
-      {
-        "Event": "The Love Lounge",
-        "Date": "Sat, Feb 17 \u2022  10:00 PM",
-        "Location": "TBA (To Be Announced)",
-        "Image URL": null
-      },
-      {
-        "Event": "2024 ONF LIVE IN CANADA *MONTREAL",
-        "Date": "Sun, Mar 3 \u2022  7:00 PM",
-        "Location": "Rialto Theatre",
-        "Image URL": null
-      },
-      {
-        "Event": "SUGAR SAMMY - MONTR\u00c9AL - YOU'RE GONNA RIRE 2",
-        "Date": "Sat, Mar 16 \u2022  7:00 PM",
-        "Location": "Salle Pierre-Mercure",
-        "Image URL": null
-      },
-      {
-        "Event": "Global Tarraxo Festival - Montreal 3rd Edition",
-        "Date": "Friday \u2022 2:00 PM",
-        "Location": "H\u00f4tel Z\u00e9ro1",
-        "Image URL": null
-      },
-      {
-        "Event": "Grandioses \u00e9clipses totales de Soleil \u00cates-vous pr\u00eat pour le 8 avril 2024 ?",
-        "Date": "Friday \u2022 7:30 PM",
-        "Location": "Plan\u00e9tarium de Montr\u00e9al",
-        "Image URL": null
-      },
-      {
-        "Event": "Concert NES/SNES",
-        "Date": "Saturday \u2022 7:30 PM",
-        "Location": "Salle Marguerite-Bourgeoys",
-        "Image URL": null
-      },
-      {
-        "Event": "Lancement montr\u00e9alais des Journ\u00e9es de la pers\u00e9v\u00e9rance scolaire 2024",
-        "Date": "Monday \u2022 9:00 AM",
-        "Location": "2000 Rue Parthenais",
-        "Image URL": null
-      },
-      {
-        "Event": "Protecting Human Rights in AI: Integration in Risk-Based Governance",
-        "Date": "Wed, Feb 14 \u2022  5:00 PM",
-        "Location": "Mila - Institut qu\u00e9b\u00e9cois d'intelligence artificielle",
-        "Image URL": null
-      },
-      {
-        "Event": "The Love Lounge",
-        "Date": "Sat, Feb 17 \u2022  10:00 PM",
-        "Location": "TBA (To Be Announced)",
-        "Image URL": null
-      },
-      {
-        "Event": "2024 ONF LIVE IN CANADA *MONTREAL",
-        "Date": "Sun, Mar 3 \u2022  7:00 PM",
-        "Location": "Rialto Theatre",
-        "Image URL": null
-      },
-      {
-        "Event": "SUGAR SAMMY - MONTR\u00c9AL - YOU'RE GONNA RIRE 2",
-        "Date": "Sat, Mar 16 \u2022  7:00 PM",
-        "Location": "Salle Pierre-Mercure",
-        "Image URL": null
-      },
-      {
-        "Event": "A Medieval Punishment Cemetery at Weyhill Road, Andover",
-        "Date": "Tomorrow \u2022 4:00 PM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Aligning LLMs with Direct Preference Optimization",
-        "Date": "Thursday \u2022 4:00 PM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Workshop 4: Add some spice with Census custom datasets",
-        "Date": "Thursday \u2022 6:30 AM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "NASA\u2019s Commercial Lunar Payload Services: Intuitive Machines IM-1 Launch",
-        "Date": "Free",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "HBR Press Webinar: Higher Ground",
-        "Date": "Tue, Feb 20 \u2022  11:00 AM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
-        "Date": "Fri, Feb 23 \u2022  2:00 PM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "DOE Careers in Engineering and Physical Science Information Session",
-        "Date": "Thu, Feb 29 \u2022  4:00 PM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Anxiety and OCD in Kids and Teens: A Course for Professionals",
-        "Date": "Thu, Mar 21 \u2022  11:00 AM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "A Medieval Punishment Cemetery at Weyhill Road, Andover",
-        "Date": "Tomorrow \u2022 4:00 PM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Aligning LLMs with Direct Preference Optimization",
-        "Date": "Thursday \u2022 4:00 PM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Workshop 4: Add some spice with Census custom datasets",
-        "Date": "Thursday \u2022 6:30 AM GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "NASA\u2019s Commercial Lunar Payload Services: Intuitive Machines IM-1 Launch",
-        "Date": "Free",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "HBR Press Webinar: Higher Ground",
-        "Date": "Tue, Feb 20 \u2022  11:00 AM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
-        "Date": "Fri, Feb 23 \u2022  2:00 PM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "DOE Careers in Engineering and Physical Science Information Session",
-        "Date": "Thu, Feb 29 \u2022  4:00 PM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Anxiety and OCD in Kids and Teens: A Course for Professionals",
-        "Date": "Thu, Mar 21 \u2022  11:00 AM  GMT-3",
-        "Location": null,
-        "Image URL": null
-      },
-      {
-        "Event": "Grandioses \u00e9clipses totales de Soleil \u00cates-vous pr\u00eat pour le 8 avril 2024 ?",
-        "Date": "Friday \u2022 7:30 PM",
-        "Location": "Plan\u00e9tarium de Montr\u00e9al",
-        "Image URL": null
-      },
-      {
-        "Event": "MOVING BEYOND SEASON 4 PRESENTS: UNLOCKED",
-        "Date": "Friday \u2022 6:00 PM",
-        "Location": "Studio Rush",
-        "Image URL": null
-      },
-      {
-        "Event": "Concert NES/SNES",
-        "Date": "Saturday \u2022 7:30 PM",
-        "Location": "Salle Marguerite-Bourgeoys",
-        "Image URL": null
-      },
-      {
-        "Event": "High on Love",
-        "Date": "Saturday \u2022 9:00 PM",
-        "Location": "662 90e Avenue",
-        "Image URL": null
-      },
-      {
-        "Event": "SIP & READ - Rencontre litt\u00e9raire",
-        "Date": "Saturday \u2022 12:30 PM",
-        "Location": "Tiamo, Avenue du Parc, Montr\u00e9al, QC, Canada",
-        "Image URL": null
-      },
-      {
-        "Event": "OFFICIAL SUPER BOWL VIEWING PARTY 2024",
-        "Date": "Sunday \u2022 4:00 PM",
-        "Location": "Le Carlton Signature",
-        "Image URL": null
-      },
-      {
-        "Event": "GLOW IN DARK 2 - DJ SAM",
-        "Date": "Sunday \u2022 8:00 PM",
-        "Location": "Le Belmont",
-        "Image URL": null
-      },
-      {
-        "Event": "Friday  Jan 19th 600-700",
-        "Date": "Sunday \u2022 6:00 PM",
-        "Location": "District5",
-        "Image URL": null
-      },
-      {
-        "Event": "Grandioses \u00e9clipses totales de Soleil \u00cates-vous pr\u00eat pour le 8 avril 2024 ?",
-        "Date": "Friday \u2022 7:30 PM",
-        "Location": "Plan\u00e9tarium de Montr\u00e9al",
-        "Image URL": null
-      },
-      {
-        "Event": "MOVING BEYOND SEASON 4 PRESENTS: UNLOCKED",
-        "Date": "Friday \u2022 6:00 PM",
-        "Location": "Studio Rush",
-        "Image URL": null
-      },
-      {
-        "Event": "Concert NES/SNES",
-        "Date": "Saturday \u2022 7:30 PM",
-        "Location": "Salle Marguerite-Bourgeoys",
-        "Image URL": null
-      },
-      {
-        "Event": "High on Love",
-        "Date": "Saturday \u2022 9:00 PM",
-        "Location": "662 90e Avenue",
-        "Image URL": null
-      },
-      {
-        "Event": "SIP & READ - Rencontre litt\u00e9raire",
-        "Date": "Saturday \u2022 12:30 PM",
-        "Location": "Tiamo, Avenue du Parc, Montr\u00e9al, QC, Canada",
-        "Image URL": null
-      },
-      {
-        "Event": "OFFICIAL SUPER BOWL VIEWING PARTY 2024",
-        "Date": "Sunday \u2022 4:00 PM",
-        "Location": "Le Carlton Signature",
-        "Image URL": null
-      },
-      {
-        "Event": "GLOW IN DARK 2 - DJ SAM",
-        "Date": "Sunday \u2022 8:00 PM",
-        "Location": "Le Belmont",
-        "Image URL": null
-      },
-      {
-        "Event": "Friday  Jan 19th 600-700",
-        "Date": "Sunday \u2022 6:00 PM",
-        "Location": "District5",
-        "Image URL": null
-      }
-    ]
+    "event_name": "Global Tarraxo Festival - Montreal 3rd Edition",
+    "date": "Friday \u2022 2:00 PM",
+    "location": "H\u00f4tel Z\u00e9ro1",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Grandioses \u00e9clipses totales de Soleil \u00cates-vous pr\u00eat pour le 8 avril 2024 ?",
+    "date": "Friday \u2022 7:30 PM",
+    "location": "Plan\u00e9tarium de Montr\u00e9al",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Concert NES/SNES",
+    "date": "Saturday \u2022 7:30 PM",
+    "location": "Salle Marguerite-Bourgeoys",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Lancement montr\u00e9alais des Journ\u00e9es de la pers\u00e9v\u00e9rance scolaire 2024",
+    "date": "Monday \u2022 9:00 AM",
+    "location": "2000 Rue Parthenais",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Protecting Human Rights in AI: Integration in Risk-Based Governance",
+    "date": "Wed, Feb 14 \u2022  5:00 PM",
+    "location": "Mila - Institut qu\u00e9b\u00e9cois d'intelligence artificielle",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "The Love Lounge",
+    "date": "Sat, Feb 17 \u2022  10:00 PM",
+    "location": "TBA (To Be Announced)",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "2024 ONF LIVE IN CANADA *MONTREAL",
+    "date": "Sun, Mar 3 \u2022  7:00 PM",
+    "location": "Rialto Theatre",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "SUGAR SAMMY - MONTR\u00c9AL - YOU'RE GONNA RIRE 2",
+    "date": "Sat, Mar 16 \u2022  7:00 PM",
+    "location": "Salle Pierre-Mercure",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "WEBINAR GRATUITO ULRIKE SIEFERLE  - VUOI ESSERE LIBERO E FELICE?",
+    "date": "Today \u2022 2:00 PM GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Webinar | Storage Home/C&I: ecco le soluzioni SMA Energy Storage Solutions",
+    "date": "Tomorrow \u2022 12:30 PM GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Filosofia Coatta - Storytelling e trend: scrivere al ritmo dell\u2019attualit\u00e0",
+    "date": "Monday \u2022 2:30 PM GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Gli attori della sicurezza e le rispettive responsabilit\u00e0",
+    "date": "Tuesday \u2022 12:30 PM GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Efficacia e assertivit\u00e0 nella comunicazione",
+    "date": "Tue, Feb 13 \u2022  3:30 PM  GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "IO/Impresa - Smettere di auto-sabotarsi nelle aspirazioni di carriera",
+    "date": "Mon, Feb 19 \u2022  10:00 AM  GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "To travel further away, choose the right TMS",
+    "date": "Mon, Feb 19 \u2022  10:30 AM  GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "CER E IMPACT INVESTING",
+    "date": "Tue, Feb 20 \u2022  11:00 AM  GMT-3",
+    "location": null,
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "MOVING BEYOND SEASON 4 PRESENTS: UNLOCKED",
+    "date": "Friday \u2022 6:00 PM",
+    "location": "Studio Rush",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "High on Love",
+    "date": "Saturday \u2022 9:00 PM",
+    "location": "662 90e Avenue",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "SIP & READ - Rencontre litt\u00e9raire",
+    "date": "Saturday \u2022 12:30 PM",
+    "location": "Tiamo, Avenue du Parc, Montr\u00e9al, QC, Canada",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "OFFICIAL SUPER BOWL VIEWING PARTY 2024",
+    "date": "Sunday \u2022 4:00 PM",
+    "location": "Le Carlton Signature",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "GLOW IN DARK 2 - DJ SAM",
+    "date": "Sunday \u2022 8:00 PM",
+    "location": "Le Belmont",
+    "image_url": null
+  },
+  {
+    "source_name": "Eventbrite",
+    "event_name": "Friday  Jan 19th 600-700",
+    "date": "Sunday \u2022 6:00 PM",
+    "location": "District5",
+    "image_url": null
   }
 ]
