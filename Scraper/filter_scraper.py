@@ -89,7 +89,7 @@ def main():
 
         all_events.append(source_data)
 
-    # Filter and save events
+    # FILTER
     filtered_events = []
     seen_events = set()
 
