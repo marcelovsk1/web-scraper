@@ -3,7 +3,7 @@ import json
 
 def generate_tags(event_titles):
     tags = []
-    openai.api_key = "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"
+    openai.api_key = "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"
 
     for title in event_titles:
         prompt = f"Generate tags for the event title: {title}. Tags:"
