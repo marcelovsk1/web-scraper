@@ -8,9 +8,9 @@ def filter_events(events_data, event_name, date, location, image_url):
     with open(events_data, 'r') as file:
         data = json.load(file)
 
+    for source_data in data:
         # Get the name of the event source
         # Gets the list of events from the current source
-    for source_data in data:
         source_name = source_data['source_name']
         events = source_data['events']
 
