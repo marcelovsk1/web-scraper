@@ -1,8 +1,6 @@
 import json
 
 def filter_events(events_data, event_name, date, location, image_url):
-    # Lista para armazenar os eventos filtrados
-    # Conjunto para rastrear os eventos únicos que já foram vistos
     filtered_events = []
     seen_events = set()
 
@@ -17,7 +15,6 @@ def filter_events(events_data, event_name, date, location, image_url):
         # Obtém a lista de eventos da fonte atual
         events = source_data['events']
 
-        # Itera sobre os eventos da fonte atual
         for event in events:
             # Cria uma chave composta pelos valores do evento que servirá como identificador único
             event_key = (event[event_name], event[date], event[location], event[image_url])
