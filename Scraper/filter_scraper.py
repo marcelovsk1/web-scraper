@@ -109,7 +109,7 @@ def main():
                     'image_url': event['Image URL']
                 })
 
-    file_name = "events_data.json"
+    file_name = "events_data1.json"
     with open(file_name, "w") as json_file:
         json.dump(filtered_events, json_file, indent=2)
 
