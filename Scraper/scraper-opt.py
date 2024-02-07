@@ -75,7 +75,7 @@ def main():
     ]
 
     all_events = []
-#test
+
     for source in sources:
         options = Options()
         options.headless = True
