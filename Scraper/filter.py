@@ -23,9 +23,8 @@ def filter_events(events_data, event_name, date, location, image_url):
             event_key = (event[event_name], event[date], event[location], event[image_url])
             # Verifica se o evento já foi visto antes
             if event_key not in seen_events:
-                # Se o evento for único, adiciona sua chave ao conjunto de eventos vistos
+                # If the event is unique:
                 seen_events.add(event_key)
-                # Adiciona o evento à lista de eventos filtrados
                 filtered_events.append({
                     'source_name': source_name,
                     'event_name': event[event_name],
@@ -36,7 +35,6 @@ def filter_events(events_data, event_name, date, location, image_url):
 
     return filtered_events
 
-# Chama a função filter_events e passa o nome do arquivo de dados de eventos e os nomes das chaves relevantes
 filtered_events = filter_events("events_data.json", "Event", "Date", "Location", "Image URL")
 
 # Convert to JSON
