@@ -10,9 +10,9 @@ def filter_events(events_data, event_name, date, location, image_url):
 
     # Itera sobre os dados carregados do arquivo JSON
     for source_data in data:
-        # Obtém o nome da fonte dos eventos
+        # Get the name of the event source
+        # Gets the list of events from the current source
         source_name = source_data['source_name']
-        # Obtém a lista de eventos da fonte atual
         events = source_data['events']
 
         for event in events:
