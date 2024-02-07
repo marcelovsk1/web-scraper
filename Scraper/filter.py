@@ -16,9 +16,7 @@ def filter_events(events_data, event_name, date, location, image_url):
         events = source_data['events']
 
         for event in events:
-            # Cria uma chave composta pelos valores do evento que servirá como identificador único
             event_key = (event[event_name], event[date], event[location], event[image_url])
-            # Verifica se o evento já foi visto antes
             if event_key not in seen_events:
                 # If the event is unique:
                 seen_events.add(event_key)
