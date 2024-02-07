@@ -4,13 +4,13 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import time
 
-# Function to scroll to bottom
+# Função para rolar até o final da página
 def scroll_to_bottom(driver, max_clicks=3):
     for _ in range(max_clicks):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(3)
 
-# Events to scrape
+# Função para raspar eventos de diferentes fontes
 def scrape_events(driver, url, selectors):
     driver.get(url)
     driver.implicitly_wait(30)
@@ -89,31 +89,19 @@ def main():
 
         all_events.append(source_data)
 
-    # FILTER
-    filtered_events = []
-    seen_events = set()
+    file_name = "events_data.json"  # Nome do arquivo JSON a ser criado
 
-    for source_data in all_events:
-        source_name = source_data['source_name']
-        events = source_data['events']
-
-        for event in events:
-            event_key = (event['Event'], event['Date'], event['Location'], event['Image URL'])
-            if event_key not in seen_events:
-                seen_events.add(event_key)
-                filtered_events.append({
-                    'source_name': source_name,
-                    'event_name': event['Event'],
-                    'date': event['Date'],
-                    'location': event['Location'],
-                    'image_url': event['Image URL']
-                })
-
-    file_name = "events_data.json"
     with open(file_name, "w") as json_file:
-        json.dump(filtered_events, json_file, indent=2)
+        json.dump(all_events, json_file, indent=2)
 
-    print(f"JSON data has been written to {file_name}")
+    print(f"Os dados JSON foram gravados em {file_name}")
+
+    # Carregar o arquivo JSON
+    with open(file_name, 'r') as file:
+        data = json.load(file)
+
+    # Imprimir o conteúdo do arquivo JSON no terminal
+    print(json.dumps(data, indent=2))
 
 if __name__ == "__main__":
     main()
